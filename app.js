@@ -37,6 +37,7 @@ function calculated() {
 	// update on th html 
 	document.getElementById('sub-total').innerText = subTotal;
 	document.getElementById('tax-amount').innerText = tax;
+	document.getElementById('total-price').innerText = subTotal + tax;
 }
 
 
