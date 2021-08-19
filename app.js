@@ -11,6 +11,7 @@ function updateCase(product, price, isIncreasing,) {
 
 	productInput.value = productNumber;
 
+
 	// update  total 
 
 	const productTotal = document.getElementById(product + '-total');
