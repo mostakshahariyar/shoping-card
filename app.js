@@ -41,6 +41,7 @@ function calculated() {
 }
 
 
+
 // phone plas button 
 document.getElementById('phone-plas').addEventListener('click', function () {
 	// const phoneInput = document.getElementById('phone-number');
